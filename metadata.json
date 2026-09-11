@@ -1,0 +1,7 @@
+{
+  "name": "BharatScheme - AI Citizen Assistant",
+  "description": "National AI-powered citizen welfare scheme discovery, eligibility verification, and application guidance portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
