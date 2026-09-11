@@ -202,24 +202,6 @@ Install dependencies:
 npm install
 ```
 
-### Environment Variables
-
-If the application requires API keys or other environment variables, create a `.env` file in the project root.
-
-Example:
-
-```env
-API_KEY=your_api_key_here
-```
-
-Do not commit your `.env` file or expose private API keys in the repository.
-
-For a public project, it is recommended to provide a `.env.example` file:
-
-```env
-API_KEY=
-```
-
 ### Run the Application
 
 Start the development server:
